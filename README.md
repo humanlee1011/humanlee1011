@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @humanlee1011, a PhD candidate in Sun Yat-sen University, China.
-- 👀 I’m interested in AIOPs in clouds, logging system
+- 👋 Hi, I’m Xiaoyun Li @humanlee1011, a 5-th year PhD candidate at Sun Yat-sen University, China. [Home Page](http://humanlee1011.github.io), [Google Scholar](https://scholar.google.com/citations?user=NZ2hM5kAAAAJ) 
+- 🌱 Now I'm a visiting student at The University of Newcastle, Australia.
+- 👀 My research interests widely lie in cloud systems, particularly aiming at developing intelligent and automated solutions to ensure high reliability of cloud systems.
+- 💡 Currently, I'm on the job market, and hunting for Post Doc/Research Scientist positions. Please feel free to reach me via [Email](lixy223@mail2.sysu.edu.cn)
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me: lixy223@mail2.sysu.edu.cn
-
 <!---
 humanlee1011/humanlee1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
